@@ -957,7 +957,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 /* Sponsors Area */
 #sponsors {
-  background: #f3f4f3;
+  background: #fff;
 }
 
 #sponsors .spnsors-logo {
@@ -2307,4 +2307,95 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 #about p{
   font-size: 16px;
+}
+
+
+/* Organizers section*/
+
+/* Community Area */
+#Organizers {
+  background: #f3f4f3;
+}
+#Organizers .organizer-image{
+  border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    object-position: top;
+    margin: 5px;
+}
+#Organizers .organizer-name{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#Organizers .Organizers-image {
+  text-align: center;
+  border-radius: 4px;
+  padding: 50px;
+  margin-bottom: 30px;
+  display: inline-block;
+  border: 1px solid #ddd;
+  background: #fff;
+  -webkit-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+}
+
+#Organizers .Organizers-image:hover {
+  border-color: transparent;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.2);
+}
+
+
+#Organizers .footer-social li {
+  display: inline-block;
+}
+
+#Organizers .footer-social li a {
+  color: #000;
+  background: #fff;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  display: block;
+  text-align: center;
+  border-radius: 4px;
+  font-size: 15px;
+  margin-right: 5px;
+  transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -o-transition: all 0.3s ease-in-out 0s;
+}
+
+#Organizers .footer-social li a:hover {
+  color: #fff;
+}
+
+#Organizers .footer-social li .facebook:hover {
+  background: #3B5998;
+}
+
+#Organizers .footer-social li .twitter:hover {
+  background: #00aced;
+}
+
+#Organizers .footer-social li .linkedin:hover {
+  background: #0073b1;
+}
+
+#Organizers .footer-social li .foursqare:hover {
+  background: #25a0ca;
+}
+
+#Organizers .footer-social li .google-plus:hover {
+  background: #d34836;
+}
+
+#Organizers .Organizers-image img{
+  height: 70px;
+  object-fit: contain;
+}
+#Organizers .Organizers-image{
+  width: 100%;
 }
