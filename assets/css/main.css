@@ -2150,6 +2150,13 @@ a.back-to-top:hover, a.back-to-top:focus {
   transition: opacity 100ms ease 0s;
   z-index: 1;
 }
+#main-slide .carousel-item .carousel-item-Address-head{
+  
+}
+#main-slide .carousel-item .carousel-item-Address-body{
+  font-size: 16px;
+  line-height: 1.5;
+}
 
 #main-slide .carousel-caption {
   color: #fff;
