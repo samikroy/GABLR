@@ -2410,10 +2410,10 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 /*keynote*/
-#Keynote {
+#keynote {
   background: #f3f4f3;
 }
-#Keynote .organizer-image{
+#keynote .organizer-image{
   border-radius: 50%;
     height: 200px;
     width: 200px;
@@ -2421,12 +2421,12 @@ a.back-to-top:hover, a.back-to-top:focus {
     object-position: top;
     margin: 5px;
 }
-#Keynote .organizer-name{
+#keynote .organizer-name{
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
-#Keynote .Organizers-image {
+#keynote .Organizers-image {
   text-align: center;
   border-radius: 4px;
   padding: 50px;
@@ -2438,17 +2438,17 @@ a.back-to-top:hover, a.back-to-top:focus {
   transition: all 300ms ease-in-out;
 }
 
-#Keynote .Organizers-image:hover {
+#keynote .Organizers-image:hover {
   border-color: transparent;
   box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.2);
 }
 
 
-#Keynote .footer-social li {
+#keynote .footer-social li {
   display: inline-block;
 }
 
-#Keynote .footer-social li a {
+#keynote .footer-social li a {
   color: #000;
   background: #fff;
   width: 35px;
@@ -2465,35 +2465,35 @@ a.back-to-top:hover, a.back-to-top:focus {
   -o-transition: all 0.3s ease-in-out 0s;
 }
 
-#Keynote .footer-social li a:hover {
+#keynote .footer-social li a:hover {
   color: #fff;
 }
 
-#Keynote .footer-social li .facebook:hover {
+#keynote .footer-social li .facebook:hover {
   background: #3B5998;
 }
 
-#Keynote .footer-social li .twitter:hover {
+#keynote .footer-social li .twitter:hover {
   background: #00aced;
 }
 
-#Keynote .footer-social li .linkedin:hover {
+#keynote .footer-social li .linkedin:hover {
   background: #0073b1;
 }
 
-#Keynote .footer-social li .foursqare:hover {
+#keynote .footer-social li .foursqare:hover {
   background: #25a0ca;
 }
 
-#Keynote .footer-social li .google-plus:hover {
+#keynote .footer-social li .google-plus:hover {
   background: #d34836;
 }
 
-#Keynote .Organizers-image img{
+#keynote .Organizers-image img{
   height: 70px;
   object-fit: contain;
 }
-#Keynote .Organizers-image{
+#keynote .Organizers-image{
   width: 100%;
 }
 
